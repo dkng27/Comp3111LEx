@@ -1,5 +1,6 @@
 Name : KU***, D*
 <br>
 SID: 20865420
-
-![Screenshot of github](./Bamboo%20Grove.jpg)
+<br>
+A screenshot of the project open in IntelliJ
+![Screenshot of github](./Screenshot.jpg)
