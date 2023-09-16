@@ -1,4 +1,4 @@
-<center>
+<div style="text-align: center">
 <br>
 Welcome to dkuang's COMP3111H Github page!
 I made the <b>GIANT</b> mistake by taking the honors class
@@ -10,15 +10,15 @@ How giant? About the size of the error log output of my first Java program
 <hr>
 <h1>JAVA SLANDER</h1>
 <h3>Reasons why Java sucks</h3>
-<ol>
+<ul style="list-style-position: inside;">
 <li>Nobody asked for <code>public static void main (String[] args)</code></li>
 <li>Wait is it <code>String[] args</code> or <code>String args[]</code>? Oh it doesn't matter? bruh</li>
 <li>Like the heat death of the universe, everything will soon be written in javascript anyway</li>
 <li>Oracle</li>
-</ol>
+</ul>
 <h3>Here's a picture generated from the prompt "Java-chan". Do not question.</h3>
-<img src="weeb.jpg" width="192" alt="weeb">
+<img src="weeb.jpg" width="256" alt="weeb">
 <br>
-Yeah. Java sucks
-
-</center>
+Please give A range
+<br>
+</div>
