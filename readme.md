@@ -1,8 +1,5 @@
-<style>
-li {list-style-position:inside}
-* {text-align:center}
-</style>
-<br><br>
+<center>
+<br>
 Welcome to dkuang's COMP3111H Github page!
 I made the <b>GIANT</b> mistake by taking the honors class
 <br>
@@ -15,6 +12,7 @@ How giant? About the size of the error log output of my first Java program
 <h3>Reasons why Java sucks</h3>
 <ol>
 <li>Nobody asked for <code>public static void main (String[] args)</code></li>
+<li>Wait is it <code>String[] args</code> or <code>String args[]</code>? Oh it doesn't matter? bruh</li>
 <li>Like the heat death of the universe, everything will soon be written in javascript anyway</li>
 <li>Oracle</li>
 </ol>
@@ -22,3 +20,5 @@ How giant? About the size of the error log output of my first Java program
 <img src="weeb.jpg" width="192" alt="weeb">
 <br>
 Yeah. Java sucks
+
+</center>
