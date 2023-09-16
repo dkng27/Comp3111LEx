@@ -2,7 +2,7 @@ Welcome to dkuang's COMP3111H Github page!
 I made the <b>GIANT</b> mistake by taking the honors class
 <br>
 How giant? About the size of the error log output of my first Java program 
-😳😳😳
+😳😳
 <br>
 <hr>
 <h1>JAVA SLANDER</h1>
